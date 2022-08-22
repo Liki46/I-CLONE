@@ -1,0 +1,19 @@
+{
+  "name": "iclone",
+  "version": "1.0.0",
+  "description": "Photo sharing & Chatting Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Likith & Ranjith",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6"
+  }
+}
